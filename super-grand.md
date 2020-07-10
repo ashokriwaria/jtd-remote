@@ -1,7 +1,8 @@
 ---
-title: Super Granchild of Test
+title: Granchild of Test
 parent: Child of Test
 grand_parent: Test
+has_children: true
 nav_order: 1
 ---
 
