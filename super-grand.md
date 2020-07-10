@@ -1,7 +1,7 @@
 ---
 title: Super Granchild of Test
 parent: Granchild of Test
-grand_parent: Child of Test
+grand_parent: Test
 nav_order: 1
 ---
 
